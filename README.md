@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jeeshantpatle
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning iOS app Development
-- 💞️ I’m looking to collaborate on iOs development and software Engineering related Profiles
+- 💞️ I’m looking to collaborate on iOS development and software Engineering related Profiles
 - 📫 How to reach me jeeshantpatle@gmail.com
 
 <!---
